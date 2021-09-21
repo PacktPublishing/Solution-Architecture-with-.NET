@@ -27,6 +27,12 @@ public IActionResult EditContent()
     return View(); 
 }
 ```
+### Errata
+- In Chapter 4, page 70, the image should be:
+![Figure 4 04_B17366_new](https://user-images.githubusercontent.com/44356744/134169424-0a87b3e5-0cd5-4ceb-813a-8d27bd35610c.png)
+
+- In Chapter 4, page 91, the image should be:
+![Figure 4.21_B17366_new](https://user-images.githubusercontent.com/44356744/134169653-6de12e09-fe77-4f69-b55d-ecad206655b1.png)
 
 **Following is what you need for this book:**
 This book is for intermediate and advanced .NET developers and software engineers who want to advance their careers and expand their knowledge of solution architecture and design principles. Beginner or intermediate-level solution architects looking for tips and tricks to build large-scale .NET solutions will find this book useful.
