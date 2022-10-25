@@ -56,3 +56,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Get to Know the Author
 **Jamil Hallal**
 is a results-driven .NET solutions architect with a strong track record of designing and developing enterprise software solutions that dramatically increase organizational effectiveness. He is certified as a Microsoft Certified Professional, designing and developing enterprise applications. He has extensive experience in building large-scale .NET web solutions, process automation, SharePoint portals, business intelligence and data analytics solutions, document management and archiving, microservices and service-based applications, and AI solutions, with a career spanning over 15 years in various industries.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801075626">https://packt.link/free-ebook/9781801075626 </a> </p>
